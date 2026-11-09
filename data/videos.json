@@ -1,0 +1,95 @@
+{
+  "_readme": "Order = order on the page. The first item is the featured 2x2 tile. If `sources` has webm/mp4 files, tiles loop them muted while on screen and the modal plays them natively (WebM first, MP4 fallback). Without `sources`, the tile shows `poster` and the modal plays the YouTube video.",
+  "videos": [
+    {
+      "id": "almarai",
+      "youtubeId": "aWFpr1hCT0w",
+      "platform": "YouTube Shorts",
+      "category": { "en": "AI Commercial", "ar": "إعلان بالذكاء الاصطناعي" },
+      "title": { "en": "Almarai Chocolate Milkshake", "ar": "ميلك شيك المراعي بالشوكولاتة" },
+      "poster": "assets/covers/aWFpr1hCT0w.webp",
+      "posterFallback": "assets/covers/aWFpr1hCT0w.jpg",
+      "sources": null
+    },
+    {
+      "id": "barbican",
+      "youtubeId": "LoO0e-gs5Ps",
+      "platform": "YouTube Shorts",
+      "category": { "en": "AI Commercial", "ar": "إعلان بالذكاء الاصطناعي" },
+      "title": { "en": "If Barbican Hired Me for an AI Ad", "ar": "لو بربيكان عيّنتني أعمل إعلانها بالذكاء الاصطناعي" },
+      "poster": "assets/covers/LoO0e-gs5Ps.webp",
+      "posterFallback": "assets/covers/LoO0e-gs5Ps.jpg",
+      "sources": null
+    },
+    {
+      "id": "kiva",
+      "youtubeId": "-6cmK0cfQtA",
+      "platform": "YouTube Shorts",
+      "category": { "en": "AI Commercial", "ar": "إعلان بالذكاء الاصطناعي" },
+      "title": { "en": "Kiva — An AI-Made Commercial", "ar": "إعلان لشركة Kiva بالذكاء الاصطناعي" },
+      "poster": "assets/covers/-6cmK0cfQtA.webp",
+      "posterFallback": "assets/covers/-6cmK0cfQtA.jpg",
+      "sources": null
+    },
+    {
+      "id": "fitband",
+      "youtubeId": "Hrwk5XsLZ4k",
+      "platform": "YouTube Shorts",
+      "category": { "en": "AI Commercial", "ar": "إعلان بالذكاء الاصطناعي" },
+      "title": { "en": "FitBand Smart Band", "ar": "إسوارة FitBand الذكية" },
+      "poster": "assets/covers/Hrwk5XsLZ4k.webp",
+      "posterFallback": "assets/covers/Hrwk5XsLZ4k.jpg",
+      "sources": null
+    },
+    {
+      "id": "smart-clinical",
+      "youtubeId": "lPTam5MonfQ",
+      "platform": "YouTube Shorts",
+      "category": { "en": "UGC Commercial", "ar": "إعلان UGC" },
+      "title": { "en": "Smart Clinical — UGC Ad", "ar": "إعلان UGC لشركة Smart Clinical" },
+      "poster": "assets/covers/lPTam5MonfQ.webp",
+      "posterFallback": "assets/covers/lPTam5MonfQ.jpg",
+      "sources": null
+    },
+    {
+      "id": "ancient-rome-dentist",
+      "youtubeId": "rzlQqdgbp1Y",
+      "platform": "YouTube Shorts",
+      "category": { "en": "AI Short", "ar": "فيلم قصير بالذكاء الاصطناعي" },
+      "title": { "en": "A Dentist Clinic in Ancient Rome?", "ar": "عيادة أسنان في روما القديمة؟" },
+      "poster": "assets/covers/rzlQqdgbp1Y.webp",
+      "posterFallback": "assets/covers/rzlQqdgbp1Y.jpg",
+      "sources": null
+    },
+    {
+      "id": "fire-before-lighters",
+      "youtubeId": "i6nIpDSwy48",
+      "platform": "YouTube Shorts",
+      "category": { "en": "AI Short", "ar": "فيلم قصير بالذكاء الاصطناعي" },
+      "title": { "en": "How Did People Make Fire Before Lighters?", "ar": "كيف أشعل الناس النار قبل الولّاعات؟" },
+      "poster": "assets/covers/i6nIpDSwy48.webp",
+      "posterFallback": "assets/covers/i6nIpDSwy48.jpg",
+      "sources": null
+    },
+    {
+      "id": "become-a-chef",
+      "youtubeId": "AZyARv5g2HI",
+      "platform": "YouTube Shorts",
+      "category": { "en": "AI Short", "ar": "فيلم قصير بالذكاء الاصطناعي" },
+      "title": { "en": "What Does It Take to Become a Chef?", "ar": "ماذا يتطلّب أن تصبح طاهياً؟" },
+      "poster": "assets/covers/AZyARv5g2HI.webp",
+      "posterFallback": "assets/covers/AZyARv5g2HI.jpg",
+      "sources": null
+    },
+    {
+      "id": "abu-al-abed",
+      "youtubeId": "6iqDClh-ENw",
+      "platform": "YouTube Shorts",
+      "category": { "en": "AI Short", "ar": "فيلم قصير بالذكاء الاصطناعي" },
+      "title": { "en": "What's Abu Al-Abed's Problem?", "ar": "إيش مشكلة أبو العبد؟" },
+      "poster": "assets/covers/6iqDClh-ENw.webp",
+      "posterFallback": "assets/covers/6iqDClh-ENw.jpg",
+      "sources": null
+    }
+  ]
+}
