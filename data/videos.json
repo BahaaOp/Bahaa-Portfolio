@@ -90,6 +90,16 @@
       "poster": "assets/covers/6iqDClh-ENw.webp",
       "posterFallback": "assets/covers/6iqDClh-ENw.jpg",
       "sources": null
+    },
+    {
+      "id": "bukra-btaaref",
+      "youtubeId": "wJlEc76xnrE",
+      "platform": "YouTube Shorts",
+      "category": { "en": "AI Short", "ar": "فيلم قصير بالذكاء الاصطناعي" },
+      "title": { "en": "You'll Know Tomorrow", "ar": "بكرا بتعرف" },
+      "poster": "https://i.ytimg.com/vi/wJlEc76xnrE/oardefault.jpg",
+      "posterFallback": "https://i.ytimg.com/vi/wJlEc76xnrE/oardefault.jpg",
+      "sources": null
     }
   ]
 }
